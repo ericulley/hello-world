@@ -1,2 +1,4 @@
 # hello-world
-Intro exercise to learn learn GitHub
+Intro exercise to learn GitHub
+
+This will be an example repository to use while learning GitHub.
